@@ -1,4 +1,4 @@
-name: 'Debug action'
+name: 'Debug action wechuli'
 description: "Log the action's environment variables and event payload"
 branding:
   icon: 'code'
